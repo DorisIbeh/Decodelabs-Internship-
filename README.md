@@ -7,4 +7,5 @@ METHODOLOGY
 3.  Performed outlier detection and correlation analysis
  
 A total of 8 outliers were identified in the dataset.
- 
+
+ ![Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/c1d099534e2bd84fef015a3c0fb80057e8fb93a8/project%202%20pix%202.png)
