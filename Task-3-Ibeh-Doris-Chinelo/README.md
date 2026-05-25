@@ -37,3 +37,6 @@ Recommendations
 * Improve customer retention through loyalty and engagement programs.
 * Reduce product returns through better quality control and customer support.
 * Optimize promotional campaigns based on performance insights.
+
+  Screenshots
+  [Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/eb61cc67e1c1c482cf5fc16eef0852edd5b29671/Task-3-Ibeh-Doris-Chinelo/decodelab%20p3%201.png)
