@@ -7,3 +7,5 @@ METHODOLOGY
    
 A total of 8 outliers were identified in the dataset.
 
+![Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/8d6d83935b0604f7c35f5784b82d550a8371dfbd/Task-2-Ibeh-Doris-Chinelo/project%202%20pix%202.png)
+
