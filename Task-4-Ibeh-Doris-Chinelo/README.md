@@ -61,7 +61,7 @@ RECOMMENDATIONS
 SCREENSHOTS
 ![Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/e6515c7badb9e70e58dcd6e3e99c91a0e3bcc15a/Task-4-Ibeh-Doris-Chinelo/decodelabs%20task%204%20dashboard.png)
 
-![Image Alt](
+![Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/ada5b11153ed5657840fbfd4af494af6bd092158/Task-4-Ibeh-Doris-Chinelo/Decode%20task%204%20screenshot.png)
 
    
 
