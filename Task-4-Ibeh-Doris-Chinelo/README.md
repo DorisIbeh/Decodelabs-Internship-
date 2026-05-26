@@ -59,9 +59,9 @@ RECOMMENDATIONS
 6. Enhance customer experience and retention strategies to reduce returns.
 
 SCREENSHOTS
+![Image Alt](https://github.com/DorisIbeh/Decodelabs-Internship-/blob/e6515c7badb9e70e58dcd6e3e99c91a0e3bcc15a/Task-4-Ibeh-Doris-Chinelo/decodelabs%20task%204%20dashboard.png)
+
 ![Image Alt](
-
-
 
    
 
